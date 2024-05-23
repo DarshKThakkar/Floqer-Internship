@@ -36,3 +36,18 @@ $ npm install
 ```
 
 3. Set up MongoDB and ensure it's running.
+
+### Starting the Server
+
+Start the server:
+
+```bash
+$ node server.js
+```
+
+### Accessing the Dashboard
+
+1. Navigate to the URL where the server is running.
+2. Explore the main table to view ML Engineer salary information from 2020 to 2024.
+3. Click on a row in the main table to view aggregated job titles and the number of jobs for that year in the second table.
+4. Analyze the data using the provided graphs on the analytics page.
