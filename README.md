@@ -45,6 +45,14 @@ Start the server:
 $ node server.js
 ```
 
+### Starting the React App
+
+Start the web app
+
+```bash
+$ npm start
+```
+
 ### Accessing the Dashboard
 
 1. Navigate to the URL where the server is running.
