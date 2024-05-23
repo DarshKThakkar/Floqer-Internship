@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides an analysis of ML Engineer salaries from 2020 to 2024. The data is stored in MongoDB and fetched using an API with the help of Express.js.
+This project provides an analysis of ML Engineer salaries from 2020 to 2024. It provides a tabular representation of the data and some analytics related to that.
 
 ### Data Information
 
@@ -18,6 +18,15 @@ Based on this data, the project creates a table (referred to as the "main table"
 
 Users can sort the table by any column. Clicking a row in the main table displays a second table that shows aggregated job titles and the number of jobs for that year.
 
+## Built With
+
+- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+- [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=recharts&logoColor=white)](https://recharts.org/)
+
+  
 ## Usage
 
 ### Installation
